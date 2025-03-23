@@ -31,8 +31,10 @@ ENV/
 # Log files
 *.log
 
-# JSON data files (optional, uncomment if you don't want to push data)
-# *.json
+# JSON data files
+*.json
+tech_jobs_data.json
+job_network.json
 
 # Temp files
 *~
