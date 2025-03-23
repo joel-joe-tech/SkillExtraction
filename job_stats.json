@@ -1,0 +1,24 @@
+{
+    "total_jobs": 502,
+    "total_skills": 0,
+    "top_skills": [],
+    "avg_skills_per_job": 0,
+    "skills_by_category": {},
+    "salary_stats": {
+        "avg_min": null,
+        "avg_max": null,
+        "min": null,
+        "max": null
+    },
+    "top_job_types": [
+        {
+            "type": "Full-time",
+            "count": 57
+        },
+        {
+            "type": "Temporary",
+            "count": 4
+        }
+    ],
+    "top_qualifications": []
+}

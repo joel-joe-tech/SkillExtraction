@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "job_1",
+      "name": "Software Engineer for Training AI Data - Python, Italian Language (Swiss)",
+      "type": "job",
+      "company": "G2i Inc"
+    },
+    {
+      "id": "job_2",
+      "name": "Customer Account Representative",
+      "type": "job",
+      "company": ""
+    },
+    {
+      "id": "entity_remote",
+      "name": "REMOTE",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "skill_fluent",
+      "name": "fluent",
+      "type": "skill",
+      "category": "LANGUAGE"
+    },
+    {
+      "id": "skill_italian",
+      "name": "Italian",
+      "type": "skill",
+      "category": "LANGUAGE"
+    },
+    {
+      "id": "skill_ai",
+      "name": "AI",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_python",
+      "name": "Python",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_llm",
+      "name": "LLM",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_generative_ai",
+      "name": "generative AI",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_code",
+      "name": "code",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    }
+  ],
+  "links": [
+    {
+      "source": "job_1",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_fluent",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_italian",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    }
+  ]
+}

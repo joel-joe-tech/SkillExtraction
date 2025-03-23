@@ -1,0 +1,8095 @@
+{
+  "nodes": [
+    {
+      "id": "job_1",
+      "name": "Contract Software Engineer",
+      "type": "job",
+      "company": "HigherPeople"
+    },
+    {
+      "id": "job_2",
+      "name": "Contract Senior Software Engineer for Blackboard LMS Integration",
+      "type": "job",
+      "company": "MathGPT.ai"
+    },
+    {
+      "id": "job_3",
+      "name": "Software Firmware Engineer",
+      "type": "job",
+      "company": "Intelliswift - An LTTS Company"
+    },
+    {
+      "id": "job_4",
+      "name": "Software Firmware Engineer",
+      "type": "job",
+      "company": "Tailored Management"
+    },
+    {
+      "id": "job_5",
+      "name": "Software Firmware Engineer",
+      "type": "job",
+      "company": "SEEQC"
+    },
+    {
+      "id": "job_6",
+      "name": "General Fullstack Software Engineer",
+      "type": "job",
+      "company": "Selby Jennings"
+    },
+    {
+      "id": "job_7",
+      "name": "Founding Full Stack AI Software Engineer",
+      "type": "job",
+      "company": "Voker (YC S24)"
+    },
+    {
+      "id": "job_8",
+      "name": "Sr. Flutter Mobile Software Engineer - Consumer Health Platform",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_9",
+      "name": "Senior Software Developer Engineer in Test",
+      "type": "job",
+      "company": "Evergreen Wealth"
+    },
+    {
+      "id": "job_10",
+      "name": "Mobile Software Engineer",
+      "type": "job",
+      "company": "Acclaim Technical Services"
+    },
+    {
+      "id": "job_11",
+      "name": "Full Stack Software Engineer",
+      "type": "job",
+      "company": "Zeal AI"
+    },
+    {
+      "id": "job_12",
+      "name": "Senior Fullstack Software Engineer - Observability and AI Multimedia Processing",
+      "type": "job",
+      "company": "Recordly.AI"
+    },
+    {
+      "id": "job_13",
+      "name": "Full Stack Software Engineer",
+      "type": "job",
+      "company": "Selby Jennings"
+    },
+    {
+      "id": "job_14",
+      "name": "Founding Full Stack Software Engineer - Serial Founder Team (Multiple Exits) *Austin Base Required*",
+      "type": "job",
+      "company": "SeeSaw"
+    },
+    {
+      "id": "job_15",
+      "name": "Senior Fullstack Software Engineer",
+      "type": "job",
+      "company": "Cloud Campaign"
+    },
+    {
+      "id": "job_16",
+      "name": "Full Stack Software Engineer",
+      "type": "job",
+      "company": "Atmospheric G2"
+    },
+    {
+      "id": "job_17",
+      "name": "Systems Software Engineer - System Software Analyst",
+      "type": "job",
+      "company": "Pyramid Consulting, Inc"
+    },
+    {
+      "id": "job_18",
+      "name": "Full Stack Software Engineer",
+      "type": "job",
+      "company": "Airgoods"
+    },
+    {
+      "id": "job_19",
+      "name": "LIMS Full Stack Software Engineer",
+      "type": "job",
+      "company": "Curve Biosciences"
+    },
+    {
+      "id": "job_20",
+      "name": "Fullstack Software Engineer",
+      "type": "job",
+      "company": "ISG Partners"
+    },
+    {
+      "id": "job_21",
+      "name": "AI/ML Software Engineer",
+      "type": "job",
+      "company": "Top AI Start up"
+    },
+    {
+      "id": "job_22",
+      "name": "Senior Gen AI / ML Software Engineer",
+      "type": "job",
+      "company": "Focus Capital Markets"
+    },
+    {
+      "id": "job_23",
+      "name": "Sr. Full-Stack Software Engineer - PHILLY/Hybrid",
+      "type": "job",
+      "company": "iO Associates - US"
+    },
+    {
+      "id": "job_24",
+      "name": "Full Stack Senior Software Engineer",
+      "type": "job",
+      "company": "Clear Skies Partners"
+    },
+    {
+      "id": "job_25",
+      "name": "Full Stack Software Engineer (C#, .NET, AWS, JavaScript)",
+      "type": "job",
+      "company": "Resolution Technologies, Inc."
+    },
+    {
+      "id": "job_26",
+      "name": "AI Founding Software Engineer - Full Stack",
+      "type": "job",
+      "company": "twentyAI"
+    },
+    {
+      "id": "job_27",
+      "name": "Deployment Software Engineer",
+      "type": "job",
+      "company": "Entangl"
+    },
+    {
+      "id": "job_28",
+      "name": "Founding Senior Software Engineer and AI Engineer",
+      "type": "job",
+      "company": "DevAI"
+    },
+    {
+      "id": "job_29",
+      "name": "Senior Mobile Front-End Software Engineer",
+      "type": "job",
+      "company": "OSI Engineering"
+    },
+    {
+      "id": "job_30",
+      "name": "Sr Director, Software Engineering",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_31",
+      "name": "Sr. Flutter Mobile Software Engineer - Consumer Health Platform",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_32",
+      "name": "Director of Software Engineering (AI-Driven HealthTech) - Founding Member",
+      "type": "job",
+      "company": "Zoom My Life"
+    },
+    {
+      "id": "job_33",
+      "name": "Software Engineering Technical Leader (Cloud Security / Networking)",
+      "type": "job",
+      "company": "Cisco"
+    },
+    {
+      "id": "job_34",
+      "name": "Software Engineering Leader - SLS, 3D Imaging, & Point Cloud",
+      "type": "job",
+      "company": "Blue Signal Search"
+    },
+    {
+      "id": "job_35",
+      "name": "Platform Software Engineer",
+      "type": "job",
+      "company": "Acceler8 Talent"
+    },
+    {
+      "id": "job_36",
+      "name": "Software Engineer (Fullstack)",
+      "type": "job",
+      "company": "Recruiting from Scratch"
+    },
+    {
+      "id": "job_37",
+      "name": "Software Engineer",
+      "type": "job",
+      "company": "Venchr"
+    },
+    {
+      "id": "job_38",
+      "name": "Senior Software Engineer - Integrations",
+      "type": "job",
+      "company": "Collette"
+    },
+    {
+      "id": "job_39",
+      "name": "Senior Software Engineer, AI Platform",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_40",
+      "name": "Sr. Software Engineer",
+      "type": "job",
+      "company": "Meet Life Sciences"
+    },
+    {
+      "id": "job_41",
+      "name": "Senior Software Engineer",
+      "type": "job",
+      "company": "Harbour"
+    },
+    {
+      "id": "job_42",
+      "name": "Senior Software Engineer - GenAI",
+      "type": "job",
+      "company": "Discover International"
+    },
+    {
+      "id": "job_43",
+      "name": "Senior Software Engineer",
+      "type": "job",
+      "company": "Guidewheel"
+    },
+    {
+      "id": "job_44",
+      "name": "Software Engineer | Fully Remote (US Only) | Full-Time",
+      "type": "job",
+      "company": "Single: the direct-to-fan app for Shopify"
+    },
+    {
+      "id": "job_45",
+      "name": "Sr. Software Engineer",
+      "type": "job",
+      "company": "Photobucket"
+    },
+    {
+      "id": "job_46",
+      "name": "Senior Software Engineer",
+      "type": "job",
+      "company": "ASUS"
+    },
+    {
+      "id": "job_47",
+      "name": "Founding Senior Software Engineer (Full-stack)",
+      "type": "job",
+      "company": "Retell AI"
+    },
+    {
+      "id": "job_48",
+      "name": "Founding Software Engineer - Hypergrowth Voice AI Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_49",
+      "name": "Software Engineer, Machine Learning",
+      "type": "job",
+      "company": "Falconer"
+    },
+    {
+      "id": "job_50",
+      "name": "Senior Software Engineer",
+      "type": "job",
+      "company": "Integri LLC"
+    },
+    {
+      "id": "job_51",
+      "name": "Sr. Founding Software Engineer - Hypergrowth Conversational AI Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_52",
+      "name": "Software Engineer - SAP S/4 & ECC",
+      "type": "job",
+      "company": "EBizCharge"
+    },
+    {
+      "id": "job_53",
+      "name": "Software Engineer III (Mobile-Android)",
+      "type": "job",
+      "company": "Walmart Global Tech"
+    },
+    {
+      "id": "job_54",
+      "name": "Senior Site Reliability Engineer",
+      "type": "job",
+      "company": "Gelato"
+    },
+    {
+      "id": "job_55",
+      "name": "Applied AI Research Scientist",
+      "type": "job",
+      "company": "Aktiia"
+    },
+    {
+      "id": "job_56",
+      "name": "Sr. Quality Engineer - Operations",
+      "type": "job",
+      "company": "Aktiia"
+    },
+    {
+      "id": "job_57",
+      "name": "Director of Enrollment Management",
+      "type": "job",
+      "company": "Leysin American School"
+    },
+    {
+      "id": "job_58",
+      "name": "LEAD PORTER- LEAD CASINO HOUSEKEEPER",
+      "type": "job",
+      "company": "Belterra Casino Resort"
+    },
+    {
+      "id": "job_59",
+      "name": "LEAD HOTEL ROOM INSPECTOR-DAY",
+      "type": "job",
+      "company": "Belterra Casino Resort"
+    },
+    {
+      "id": "job_60",
+      "name": "ENGINEER III- MAINTENANCE WORKER",
+      "type": "job",
+      "company": "Belterra Casino Resort"
+    },
+    {
+      "id": "job_61",
+      "name": "ENGINEER II- MAINTENANCE WORKER",
+      "type": "job",
+      "company": "Belterra Casino Resort"
+    },
+    {
+      "id": "job_62",
+      "name": "(Junior) CRM Manager (m/w/d) 60%",
+      "type": "job",
+      "company": "Teva Pharmaceutical Industries Ltd."
+    },
+    {
+      "id": "job_63",
+      "name": "FRONT DESK ASSISTANT MANAGER- HOTEL",
+      "type": "job",
+      "company": "Belterra Casino Resort"
+    },
+    {
+      "id": "job_64",
+      "name": "Mobile App Developer - C++ Coding",
+      "type": "job",
+      "company": "LER TechForce"
+    },
+    {
+      "id": "job_65",
+      "name": "C# Programming Developer with C++ (3-6 months)",
+      "type": "job",
+      "company": "Luxoft"
+    },
+    {
+      "id": "job_66",
+      "name": "Mac/ iOS Mobile App Developer (Swift, C, and C++)",
+      "type": "job",
+      "company": "Insight Global"
+    },
+    {
+      "id": "job_67",
+      "name": "Sr. Flutter Mobile Software Engineer - Consumer Health Platform",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_68",
+      "name": "Mobile Application Developer - Android",
+      "type": "job",
+      "company": "Culver Careers (CulverCareers.com)"
+    },
+    {
+      "id": "job_69",
+      "name": "Oracle Developer",
+      "type": "job",
+      "company": "Matlen Silver"
+    },
+    {
+      "id": "job_70",
+      "name": "Oracle Integrations Developer",
+      "type": "job",
+      "company": "Bayforce"
+    },
+    {
+      "id": "job_71",
+      "name": "Oracle Integration Cloud Developer",
+      "type": "job",
+      "company": "VBeyond Corporation"
+    },
+    {
+      "id": "job_72",
+      "name": "Lead Options Trading C++ Developer",
+      "type": "job",
+      "company": "Newly Launched HFT"
+    },
+    {
+      "id": "job_73",
+      "name": "Lead C++ Software Engineer - Compiler Development (R48157/dw)",
+      "type": "job",
+      "company": "Cadence"
+    },
+    {
+      "id": "job_74",
+      "name": "Oracle Database Developer",
+      "type": "job",
+      "company": "Compunnel Inc."
+    },
+    {
+      "id": "job_75",
+      "name": "Power Apps. Developer",
+      "type": "job",
+      "company": "COGENT DATA SOLUTIONS LLC"
+    },
+    {
+      "id": "job_76",
+      "name": "Mobile Application Developer",
+      "type": "job",
+      "company": "NeerInfo Solutions"
+    },
+    {
+      "id": "job_77",
+      "name": "IT App Developer",
+      "type": "job",
+      "company": "Compunnel Inc."
+    },
+    {
+      "id": "job_78",
+      "name": "Staff Mobile Engineer",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_79",
+      "name": "Mobile App Engineers",
+      "type": "job",
+      "company": "Talent Groups"
+    },
+    {
+      "id": "job_80",
+      "name": "Power Apps Developer",
+      "type": "job",
+      "company": "LTIMindtree"
+    },
+    {
+      "id": "job_81",
+      "name": "Mobile Application Developer - Rapidly growing tech-driven Real estate firm - up to $155k base",
+      "type": "job",
+      "company": "Saragossa"
+    },
+    {
+      "id": "job_82",
+      "name": "Mobile Application Developer",
+      "type": "job",
+      "company": "IC Resources"
+    },
+    {
+      "id": "job_83",
+      "name": "Senior Mobile Engineer (Flutter & Native iOS/Android)",
+      "type": "job",
+      "company": "Whisler, Inc"
+    },
+    {
+      "id": "job_84",
+      "name": "Lead C++ Developer",
+      "type": "job",
+      "company": "Capgemini"
+    },
+    {
+      "id": "job_85",
+      "name": "Mobile Engineer",
+      "type": "job",
+      "company": "ZRG Embedded Recruiting/RPO"
+    },
+    {
+      "id": "job_86",
+      "name": "Senior Mobile Engineer, iOS and Android",
+      "type": "job",
+      "company": "Ringside Talent"
+    },
+    {
+      "id": "job_87",
+      "name": "Mobile Application Developer, iOS",
+      "type": "job",
+      "company": "Culver Careers (CulverCareers.com)"
+    },
+    {
+      "id": "job_88",
+      "name": "Sr. Oracle APEX Developer",
+      "type": "job",
+      "company": "eTRANSERVICES Corp."
+    },
+    {
+      "id": "job_89",
+      "name": "Oracle APEX Developer",
+      "type": "job",
+      "company": "Net2Source Inc."
+    },
+    {
+      "id": "job_90",
+      "name": "Senior Oracle APEX Developer",
+      "type": "job",
+      "company": "Eaton Steel Bar Company"
+    },
+    {
+      "id": "job_91",
+      "name": "Mobile Application Developer",
+      "type": "job",
+      "company": "Aquent Talent"
+    },
+    {
+      "id": "job_92",
+      "name": "Mobile Application Developer",
+      "type": "job",
+      "company": "Technogen, Inc."
+    },
+    {
+      "id": "job_93",
+      "name": "C++ C# Socket Programming Developer",
+      "type": "job",
+      "company": "Luxoft"
+    },
+    {
+      "id": "job_94",
+      "name": "Power Apps Developer",
+      "type": "job",
+      "company": "LTIMindtree"
+    },
+    {
+      "id": "job_95",
+      "name": "Lead Application Developer",
+      "type": "job",
+      "company": "Bayforce"
+    },
+    {
+      "id": "job_96",
+      "name": "Senior UI and .NET/C# Developer",
+      "type": "job",
+      "company": "SPECTRAFORCE"
+    },
+    {
+      "id": "job_97",
+      "name": "Senior Software Engineer (C++, Embedded)",
+      "type": "job",
+      "company": "GlobalLogic"
+    },
+    {
+      "id": "job_98",
+      "name": "C++ Developer, Capital Markets Platforms",
+      "type": "job",
+      "company": "BIP.Monticello"
+    },
+    {
+      "id": "job_99",
+      "name": "Senior C++ Developer",
+      "type": "job",
+      "company": "GlobalLogic"
+    },
+    {
+      "id": "job_100",
+      "name": "Oracle EBS Technical Developer (045-24)",
+      "type": "job",
+      "company": "Anglicotech, LLC"
+    },
+    {
+      "id": "job_101",
+      "name": "Observability Technical Lead",
+      "type": "job",
+      "company": "Pyramid Consulting, Inc"
+    },
+    {
+      "id": "job_102",
+      "name": "Oracle HCM Technical Lead",
+      "type": "job",
+      "company": "Bashas'"
+    },
+    {
+      "id": "job_103",
+      "name": "Senior / Expert ASP.NET Core Blazor Developer (Remote)",
+      "type": "job",
+      "company": "SETWorks"
+    },
+    {
+      "id": "job_104",
+      "name": "Oracle Cloud Tech Lead",
+      "type": "job",
+      "company": "MarkJames Search"
+    },
+    {
+      "id": "job_105",
+      "name": "Technical Lead",
+      "type": "job",
+      "company": "Wellness Coach"
+    },
+    {
+      "id": "job_106",
+      "name": "Lead Software Engineer",
+      "type": "job",
+      "company": "Summit Group Solutions, LLC"
+    },
+    {
+      "id": "job_107",
+      "name": "Lead Software Engineer",
+      "type": "job",
+      "company": "Aetherflux"
+    },
+    {
+      "id": "job_108",
+      "name": "Technical Lead - Backend (.NET Focus)",
+      "type": "job",
+      "company": "Teamfront"
+    },
+    {
+      "id": "job_109",
+      "name": "MS Dynamics 365 Tech Lead with Strong 10+ yrs, must have C #, Angular JS or any Angular version - Queen, NY",
+      "type": "job",
+      "company": "Spruce Technology, Inc."
+    },
+    {
+      "id": "job_110",
+      "name": "Lead Software Engineer",
+      "type": "job",
+      "company": "Fiery"
+    },
+    {
+      "id": "job_111",
+      "name": "Lead Software Engineer - GenAI",
+      "type": "job",
+      "company": "Skechers"
+    },
+    {
+      "id": "job_112",
+      "name": "Technical Lead - Actimize IFM",
+      "type": "job",
+      "company": "Amtex Systems Inc."
+    },
+    {
+      "id": "job_113",
+      "name": "Lead Software Engineer",
+      "type": "job",
+      "company": "DXC Technology"
+    },
+    {
+      "id": "job_114",
+      "name": "Lead AI Developer UI Strategy",
+      "type": "job",
+      "company": "ExpediteInfoTech, Inc."
+    },
+    {
+      "id": "job_115",
+      "name": "Lead Software Engineer",
+      "type": "job",
+      "company": "Stem IT"
+    },
+    {
+      "id": "job_116",
+      "name": "Application Developer",
+      "type": "job",
+      "company": "Russell Tobin"
+    },
+    {
+      "id": "job_117",
+      "name": "Application Software Developer II",
+      "type": "job",
+      "company": "Epsilon, Inc."
+    },
+    {
+      "id": "job_118",
+      "name": "Cheminformatics or Bioinformatics Data Scientist",
+      "type": "job",
+      "company": "Insilica"
+    },
+    {
+      "id": "job_119",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "NexMeet"
+    },
+    {
+      "id": "job_120",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "Curative AI, Inc."
+    },
+    {
+      "id": "job_121",
+      "name": "Senior Data Scientist - Inference & Algorithms",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_122",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "SIBLING"
+    },
+    {
+      "id": "job_123",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "Agilit\u00e9"
+    },
+    {
+      "id": "job_124",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_125",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "Russell Tobin"
+    },
+    {
+      "id": "job_126",
+      "name": "Senior Data Scientist with Data Engineering Experience",
+      "type": "job",
+      "company": "Pyramid Consulting, Inc"
+    },
+    {
+      "id": "job_127",
+      "name": "Senior Lead Data Scientist / ML Engineer",
+      "type": "job",
+      "company": "Elvis Eckardt Recruitment"
+    },
+    {
+      "id": "job_128",
+      "name": "Senior Data Scientist Engineer",
+      "type": "job",
+      "company": "Cognomotiv"
+    },
+    {
+      "id": "job_129",
+      "name": "Senior Data Scientist Admin",
+      "type": "job",
+      "company": "Watkins Government Services"
+    },
+    {
+      "id": "job_130",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "Panda Intelligence"
+    },
+    {
+      "id": "job_131",
+      "name": "Data Analyst/Scientist - Brewster, NY",
+      "type": "job",
+      "company": "Pivotal Solutions"
+    },
+    {
+      "id": "job_132",
+      "name": "Senior RWE Data Scientist",
+      "type": "job",
+      "company": "Zenith LifeScience"
+    },
+    {
+      "id": "job_133",
+      "name": "Lead Data Scientist / Data Engineer",
+      "type": "job",
+      "company": "GridMatrix"
+    },
+    {
+      "id": "job_134",
+      "name": "Data Scientist - Finance & Engineering",
+      "type": "job",
+      "company": "BIP"
+    },
+    {
+      "id": "job_135",
+      "name": "Principal Pricing Data Scientist",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_136",
+      "name": "Sr. Staff Data Scientist, Jobs Marketplace",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_137",
+      "name": "Data Scientist II (AWS Cloud)",
+      "type": "job",
+      "company": "Beacon Hill"
+    },
+    {
+      "id": "job_138",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "Akkodis"
+    },
+    {
+      "id": "job_139",
+      "name": "Data Scientist - Washington DC (NoVa) TS/SCI Cleared",
+      "type": "job",
+      "company": "iO Associates - US"
+    },
+    {
+      "id": "job_140",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "LTIMindtree"
+    },
+    {
+      "id": "job_141",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "Strella"
+    },
+    {
+      "id": "job_142",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "ConSol Partners"
+    },
+    {
+      "id": "job_143",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "Brahma Consulting Group"
+    },
+    {
+      "id": "job_144",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "Compunnel Inc."
+    },
+    {
+      "id": "job_145",
+      "name": "Principal Data Scientist",
+      "type": "job",
+      "company": "Robert Half"
+    },
+    {
+      "id": "job_146",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "Hamilton Porter"
+    },
+    {
+      "id": "job_147",
+      "name": "Data Scientist - Tallahassee, FL",
+      "type": "job",
+      "company": "Lifescale Analytics"
+    },
+    {
+      "id": "job_148",
+      "name": "Product Analytics - Data Scientist",
+      "type": "job",
+      "company": "Great American Media"
+    },
+    {
+      "id": "job_149",
+      "name": "Lead Data Scientist",
+      "type": "job",
+      "company": "IPG Health"
+    },
+    {
+      "id": "job_150",
+      "name": "Staff Data Scientist",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_151",
+      "name": "Distinguished Data Scientist, ML/AI",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_152",
+      "name": "Data Scientist",
+      "type": "job",
+      "company": "Matlen Silver"
+    },
+    {
+      "id": "job_153",
+      "name": "Data Scientist - Risk Management",
+      "type": "job",
+      "company": "Walmart"
+    },
+    {
+      "id": "job_154",
+      "name": "Senior Data Scientist Consultant - Marketing & Strategy",
+      "type": "job",
+      "company": "Sia"
+    },
+    {
+      "id": "job_155",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_156",
+      "name": "Senior Data Scientist TS/SCI CI poly",
+      "type": "job",
+      "company": "Tenica and Associates"
+    },
+    {
+      "id": "job_157",
+      "name": "Senior Full Stack Data Scientist - Remote UK/EU",
+      "type": "job",
+      "company": "Syrup Tech"
+    },
+    {
+      "id": "job_158",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": ""
+    },
+    {
+      "id": "job_159",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "Prealize Health"
+    },
+    {
+      "id": "job_160",
+      "name": "Senior, Data Scientist | Transportation AI - Demand Estimation",
+      "type": "job",
+      "company": "Walmart Inc."
+    },
+    {
+      "id": "job_161",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_162",
+      "name": "Senior Data Scientist (Supply Chain) - Remote | WFH",
+      "type": "job",
+      "company": "Get It Recruit - Transportation"
+    },
+    {
+      "id": "job_163",
+      "name": "Senior Business Data Scientist",
+      "type": "job",
+      "company": "Verizon"
+    },
+    {
+      "id": "job_164",
+      "name": "Senior Data Scientist, Growth - Remote | WFH",
+      "type": "job",
+      "company": "Get It - Marketing"
+    },
+    {
+      "id": "job_165",
+      "name": "Senior Data Scientist (Supply Chain) - Remote | WFH",
+      "type": "job",
+      "company": "Get It Recruit - Transportation"
+    },
+    {
+      "id": "job_166",
+      "name": "Senior Data Engineer",
+      "type": "job",
+      "company": "Aktiia"
+    },
+    {
+      "id": "job_167",
+      "name": "Senior Manager (m/f/d) Program Management 100%",
+      "type": "job",
+      "company": "Teva Pharmaceutical Industries Ltd."
+    },
+    {
+      "id": "job_168",
+      "name": "Full Stack Developer",
+      "type": "job",
+      "company": "AutoHDR"
+    },
+    {
+      "id": "job_169",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Next Ventures"
+    },
+    {
+      "id": "job_170",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Understanding Recruitment"
+    },
+    {
+      "id": "job_171",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Hewitt Banks"
+    },
+    {
+      "id": "job_172",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Acceler8 Talent"
+    },
+    {
+      "id": "job_173",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "BCforward"
+    },
+    {
+      "id": "job_174",
+      "name": "Full Stack Engineer (Fractional)",
+      "type": "job",
+      "company": "Clean Smarts"
+    },
+    {
+      "id": "job_175",
+      "name": "Full Stack Engineer - Build from scratch with Elite Hedge Fund - up to $400k total comp.",
+      "type": "job",
+      "company": "Saragossa"
+    },
+    {
+      "id": "job_176",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Trust In SODA"
+    },
+    {
+      "id": "job_177",
+      "name": "Java full stack Developer",
+      "type": "job",
+      "company": "Tata Consultancy Services"
+    },
+    {
+      "id": "job_178",
+      "name": "Founding Fullstack Engineer",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_179",
+      "name": "Senior Full Stack Engineer",
+      "type": "job",
+      "company": "Zealthy"
+    },
+    {
+      "id": "job_180",
+      "name": "Senior Full Stack Engineer",
+      "type": "job",
+      "company": "Edia"
+    },
+    {
+      "id": "job_181",
+      "name": "Sr Full Stack(JAVA-AWS) Engineer",
+      "type": "job",
+      "company": "Compunnel Inc."
+    },
+    {
+      "id": "job_182",
+      "name": "Staff Full-Stack Engineer (AI Product)",
+      "type": "job",
+      "company": "Acceler8 Talent"
+    },
+    {
+      "id": "job_183",
+      "name": "Full Stack Engineer- W2 ONLY",
+      "type": "job",
+      "company": "Compunnel Inc."
+    },
+    {
+      "id": "job_184",
+      "name": "Java Full Stack Developer - Face to Face Interview",
+      "type": "job",
+      "company": "Smart IT Frame LLC"
+    },
+    {
+      "id": "job_185",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "AlloHire"
+    },
+    {
+      "id": "job_186",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "MediScan AI"
+    },
+    {
+      "id": "job_187",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Vert"
+    },
+    {
+      "id": "job_188",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Dimer Health"
+    },
+    {
+      "id": "job_189",
+      "name": ".Net Fullstack Developer with C#",
+      "type": "job",
+      "company": "Smart IT Frame LLC"
+    },
+    {
+      "id": "job_190",
+      "name": "Full Stack Java Engineer",
+      "type": "job",
+      "company": "Insight Global"
+    },
+    {
+      "id": "job_191",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Mondo"
+    },
+    {
+      "id": "job_192",
+      "name": "Full Stack Developer - Full Scope Poly",
+      "type": "job",
+      "company": "Talently"
+    },
+    {
+      "id": "job_193",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Rise Technical"
+    },
+    {
+      "id": "job_194",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Infactory"
+    },
+    {
+      "id": "job_195",
+      "name": "Senior Full-Stack Engineer (Multiple Opportunities)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_196",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Rise Technical"
+    },
+    {
+      "id": "job_197",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Disruptive DataTech"
+    },
+    {
+      "id": "job_198",
+      "name": "Blockchain Developer (Cosmos SDK & Cosmos WASM) - Full Stack Web3 Engineer",
+      "type": "job",
+      "company": "Anketa"
+    },
+    {
+      "id": "job_199",
+      "name": "Full Stack Software Developer",
+      "type": "job",
+      "company": "PepperMill"
+    },
+    {
+      "id": "job_200",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "TradeZero"
+    },
+    {
+      "id": "job_201",
+      "name": "Full Stack Engineer - React, Node, GraphQL",
+      "type": "job",
+      "company": "Route36"
+    },
+    {
+      "id": "job_202",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Path Systems"
+    },
+    {
+      "id": "job_203",
+      "name": "Full Stack Engineer opening - Computer Vision Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_204",
+      "name": "Full-Stack Shopify Developer",
+      "type": "job",
+      "company": "Rowan Appliance Inc."
+    },
+    {
+      "id": "job_205",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "CommercializeIQ"
+    },
+    {
+      "id": "job_206",
+      "name": "Senior Full-Stack Engineer at YC AI Startup | SFSE-04",
+      "type": "job",
+      "company": "dynamism vc"
+    },
+    {
+      "id": "job_207",
+      "name": "Principal Full Stack Software Engineer - EdTech AI Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_208",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Domify AI"
+    },
+    {
+      "id": "job_209",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Mothership"
+    },
+    {
+      "id": "job_210",
+      "name": "Full Stack Engineer II - TypeScript",
+      "type": "job",
+      "company": "SafeInsights, Rice University"
+    },
+    {
+      "id": "job_211",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Mindlance"
+    },
+    {
+      "id": "job_212",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "SoTalent"
+    },
+    {
+      "id": "job_213",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "3rd-i Technology Inc."
+    },
+    {
+      "id": "job_214",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Kellton"
+    },
+    {
+      "id": "job_215",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Sensor Tower"
+    },
+    {
+      "id": "job_216",
+      "name": "Senior Full Stack Engineer",
+      "type": "job",
+      "company": "Knot"
+    },
+    {
+      "id": "job_217",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Anderson Frank"
+    },
+    {
+      "id": "job_218",
+      "name": "Full Stack Web Developer",
+      "type": "job",
+      "company": "Label Interactive"
+    },
+    {
+      "id": "job_219",
+      "name": "Sr. Full Stack Software Engineer - Leading Blockchain Investment Firm",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_220",
+      "name": "Senior Full Stack Software Developer",
+      "type": "job",
+      "company": "AnthroTronix"
+    },
+    {
+      "id": "job_221",
+      "name": "Full Stack Engineer",
+      "type": "job",
+      "company": "Modicus Prime"
+    },
+    {
+      "id": "job_222",
+      "name": "Customer Success (DTC) Intern",
+      "type": "job",
+      "company": "Full Stack Supply Co"
+    },
+    {
+      "id": "job_223",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "Averity"
+    },
+    {
+      "id": "job_224",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "Infinitive"
+    },
+    {
+      "id": "job_225",
+      "name": "Senior DevOps Engineer - SC Cleared",
+      "type": "job",
+      "company": "EVONA"
+    },
+    {
+      "id": "job_226",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "Agile Resources, Inc."
+    },
+    {
+      "id": "job_227",
+      "name": "Azure DevOps Engineer",
+      "type": "job",
+      "company": "ARK InfoTech Spectrum"
+    },
+    {
+      "id": "job_228",
+      "name": "Senior Devops Engineer",
+      "type": "job",
+      "company": "Tata Consultancy Services"
+    },
+    {
+      "id": "job_229",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "MS Shift, Inc."
+    },
+    {
+      "id": "job_230",
+      "name": "Senior AWS DevOps Engineer",
+      "type": "job",
+      "company": "Hexaware Technologies"
+    },
+    {
+      "id": "job_231",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "Recruiting from Scratch"
+    },
+    {
+      "id": "job_232",
+      "name": "Senior Devops Engineer",
+      "type": "job",
+      "company": "Terumo Blood and Cell Technologies"
+    },
+    {
+      "id": "job_233",
+      "name": "AWS Devops Engineer",
+      "type": "job",
+      "company": "Tata Consultancy Services"
+    },
+    {
+      "id": "job_234",
+      "name": "Azure DevOps Engineer",
+      "type": "job",
+      "company": "TalentOla"
+    },
+    {
+      "id": "job_235",
+      "name": "Senior Systems & DevOps Engineer",
+      "type": "job",
+      "company": "CHESS Solutions, LLC"
+    },
+    {
+      "id": "job_236",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "Curative AI, Inc."
+    },
+    {
+      "id": "job_237",
+      "name": "Senior DevOps Engineer, Enterprise Systems",
+      "type": "job",
+      "company": "Sustainable Talent"
+    },
+    {
+      "id": "job_238",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "Next Ventures"
+    },
+    {
+      "id": "job_239",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "Saxon AI"
+    },
+    {
+      "id": "job_240",
+      "name": "DevOps Engineer- (F2F Interview)",
+      "type": "job",
+      "company": "TekDoors Inc."
+    },
+    {
+      "id": "job_241",
+      "name": "Senior Staff DevOps Engineer (Cortex)",
+      "type": "job",
+      "company": "Palo Alto Networks"
+    },
+    {
+      "id": "job_242",
+      "name": "Sr. Azure DevOps Engineer",
+      "type": "job",
+      "company": "Projectmates by Systemates Inc."
+    },
+    {
+      "id": "job_243",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "Harrison Clarke"
+    },
+    {
+      "id": "job_244",
+      "name": "Principal DevOps Engineer",
+      "type": "job",
+      "company": "HireStarter, Inc."
+    },
+    {
+      "id": "job_245",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "Agile Resources, Inc."
+    },
+    {
+      "id": "job_246",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "Radwell International"
+    },
+    {
+      "id": "job_247",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "NeerInfo Solutions"
+    },
+    {
+      "id": "job_248",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "Hirey Recruiters"
+    },
+    {
+      "id": "job_249",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "RK Management Consultants, Inc."
+    },
+    {
+      "id": "job_250",
+      "name": "Senior Build Engineer",
+      "type": "job",
+      "company": "Horizons"
+    },
+    {
+      "id": "job_251",
+      "name": "Lead DevOps/MLOps Engineer",
+      "type": "job",
+      "company": "Ascentt"
+    },
+    {
+      "id": "job_252",
+      "name": "DevOps Engineer (Top Secret required)",
+      "type": "job",
+      "company": "Ramtec Consulting LLC"
+    },
+    {
+      "id": "job_253",
+      "name": "Principal DevOPS Engineer",
+      "type": "job",
+      "company": "Providence Partners, LLC"
+    },
+    {
+      "id": "job_254",
+      "name": "DevOps / Site Reliability Engineer - GCP - Hypergrowth Healthcare GenAI Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_255",
+      "name": "Senior Staff Azure Cloud Systems Engineer",
+      "type": "job",
+      "company": "LHH"
+    },
+    {
+      "id": "job_256",
+      "name": "DevOps / MLOps Engineer",
+      "type": "job",
+      "company": "Domify AI"
+    },
+    {
+      "id": "job_257",
+      "name": "DevOps Engineer",
+      "type": "job",
+      "company": "HireRising"
+    },
+    {
+      "id": "job_258",
+      "name": "Systems Validation Engineer",
+      "type": "job",
+      "company": "Amazech Solutions"
+    },
+    {
+      "id": "job_259",
+      "name": "Cleared Kubernetes Engineer",
+      "type": "job",
+      "company": "Immersive Wisdom"
+    },
+    {
+      "id": "job_260",
+      "name": "Dev Ops Engineer",
+      "type": "job",
+      "company": "Mothership"
+    },
+    {
+      "id": "job_261",
+      "name": "Founding Engineer",
+      "type": "job",
+      "company": "Evolua"
+    },
+    {
+      "id": "job_262",
+      "name": "Cloud DevOps Engineer",
+      "type": "job",
+      "company": "Wakefern Food Corp."
+    },
+    {
+      "id": "job_263",
+      "name": "Regional Sales Engineer",
+      "type": "job",
+      "company": "AlgoSec"
+    },
+    {
+      "id": "job_264",
+      "name": "Senior devops engineer",
+      "type": "job",
+      "company": "Talener"
+    },
+    {
+      "id": "job_265",
+      "name": "Azure DevOps Engineer",
+      "type": "job",
+      "company": "S3b Global Inc"
+    },
+    {
+      "id": "job_266",
+      "name": "Senior DevOps Engineer",
+      "type": "job",
+      "company": "GovServicesHub"
+    },
+    {
+      "id": "job_267",
+      "name": "Teamcenter Developer",
+      "type": "job",
+      "company": "SRI Tech Solutions Inc."
+    },
+    {
+      "id": "job_268",
+      "name": "M-3-19 - Senior DevOps Engineer (758983)",
+      "type": "job",
+      "company": "Focused HR Solutions"
+    },
+    {
+      "id": "job_269",
+      "name": "Senior Azure DevOps Engineer",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_270",
+      "name": "Senior Azure DevOps Engineer (Windows, IaC)",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_271",
+      "name": "Senior DevOps Engineer - W2 (H1B/OPT) Accepted",
+      "type": "job",
+      "company": "Xcelo Group"
+    },
+    {
+      "id": "job_272",
+      "name": "Senior Azure DevOps Engineer",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_273",
+      "name": "Team center admin/developer with AWS",
+      "type": "job",
+      "company": "Yochana"
+    },
+    {
+      "id": "job_274",
+      "name": "Remote Senior DevOps Engineer",
+      "type": "job",
+      "company": "nClouds, Inc."
+    },
+    {
+      "id": "job_275",
+      "name": "DevOps, Cloud, Infrastructure Engineer",
+      "type": "job",
+      "company": "CAE USA"
+    },
+    {
+      "id": "job_276",
+      "name": "DevOps Cloud Security Engineer",
+      "type": "job",
+      "company": "EVONA"
+    },
+    {
+      "id": "job_277",
+      "name": "Cloud Engineer (Elasticstack Engineer)",
+      "type": "job",
+      "company": "Entech"
+    },
+    {
+      "id": "job_278",
+      "name": "Cloud Engineering & Operations Manager",
+      "type": "job",
+      "company": "Hamilton Porter"
+    },
+    {
+      "id": "job_279",
+      "name": "Sr Staff Cloud Network Engineer (Customer Profile Test Engineering)",
+      "type": "job",
+      "company": "Palo Alto Networks"
+    },
+    {
+      "id": "job_280",
+      "name": "Sustaining & Maintenance Cloud Software Engineer",
+      "type": "job",
+      "company": "Barrington James"
+    },
+    {
+      "id": "job_281",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Prodware Solutions"
+    },
+    {
+      "id": "job_282",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Brooksource"
+    },
+    {
+      "id": "job_283",
+      "name": "Cloud Engineer - Azure",
+      "type": "job",
+      "company": "recruitAbility"
+    },
+    {
+      "id": "job_284",
+      "name": "Cloud Engineer (TS Clearance required)",
+      "type": "job",
+      "company": "Ramtec Consulting LLC"
+    },
+    {
+      "id": "job_285",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Entech"
+    },
+    {
+      "id": "job_286",
+      "name": "Founding Cloud Engineer",
+      "type": "job",
+      "company": "Metric Bio"
+    },
+    {
+      "id": "job_287",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "EVONA"
+    },
+    {
+      "id": "job_288",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Resolve Tech Solutions"
+    },
+    {
+      "id": "job_289",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Copic Companies"
+    },
+    {
+      "id": "job_290",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Net2Source Inc."
+    },
+    {
+      "id": "job_291",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Dexian"
+    },
+    {
+      "id": "job_292",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "MSR Technology Group"
+    },
+    {
+      "id": "job_293",
+      "name": "Microsoft Cloud Engineer",
+      "type": "job",
+      "company": "NOVO"
+    },
+    {
+      "id": "job_294",
+      "name": "Cloud/DevSecOps Engineer",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_295",
+      "name": "Cloud Engineer",
+      "type": "job",
+      "company": "Spire - Pay with Spire, Inc."
+    },
+    {
+      "id": "job_296",
+      "name": "Cloud Software Engineer",
+      "type": "job",
+      "company": "TechVest Global Solutions Inc."
+    },
+    {
+      "id": "job_297",
+      "name": "Cloud Managed Service Engineer - AWS / Azure",
+      "type": "job",
+      "company": "MegazoneCloud"
+    },
+    {
+      "id": "job_298",
+      "name": "Cloud Service Engineer - AWS (Intermediate, Fixed Term Employee/renewable)",
+      "type": "job",
+      "company": "MegazoneCloud"
+    },
+    {
+      "id": "job_299",
+      "name": "Snowflake and Azure Cloud Engineer",
+      "type": "job",
+      "company": "Saxon AI"
+    },
+    {
+      "id": "job_300",
+      "name": "Platform Engineer",
+      "type": "job",
+      "company": "Mainz Brady Group"
+    },
+    {
+      "id": "job_301",
+      "name": "Senior Cloud Engineer",
+      "type": "job",
+      "company": "Independence Pet Holdings"
+    },
+    {
+      "id": "job_302",
+      "name": "Cloud/DevOps Engineer",
+      "type": "job",
+      "company": "Power3 Solutions and Partnering Companies"
+    },
+    {
+      "id": "job_303",
+      "name": "Sr Cloud DevOps Engineer - Fulltime",
+      "type": "job",
+      "company": "Tech Tammina LLC"
+    },
+    {
+      "id": "job_304",
+      "name": "Cloud & DevOps Engineer",
+      "type": "job",
+      "company": "UC San Diego"
+    },
+    {
+      "id": "job_305",
+      "name": "DevOps / Cloud Engineer General Application (Clearance Required)",
+      "type": "job",
+      "company": "Nexxis Solutions"
+    },
+    {
+      "id": "job_306",
+      "name": "Cloud Native DevOps Engineer (m/w/d)",
+      "type": "job",
+      "company": "PROSOZ Herten GmbH"
+    },
+    {
+      "id": "job_307",
+      "name": "DevOps/Cloud Engineer (AWS)",
+      "type": "job",
+      "company": "G2i Inc"
+    },
+    {
+      "id": "job_308",
+      "name": "*Top Secret Cleared* - Cloud Support Engineer",
+      "type": "job",
+      "company": "Gridiron IT"
+    },
+    {
+      "id": "job_309",
+      "name": "Azure DevOps Engineer (AI/ML)",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_310",
+      "name": "Platform DevOps Cloud Engineer",
+      "type": "job",
+      "company": "IBM"
+    },
+    {
+      "id": "job_311",
+      "name": "Cloud Engineer/Architect (Consultant)",
+      "type": "job",
+      "company": "Rhizome Data"
+    },
+    {
+      "id": "job_312",
+      "name": "GCP DevOps Engineer",
+      "type": "job",
+      "company": "iTekPeople Inc"
+    },
+    {
+      "id": "job_313",
+      "name": "Middle Azure DevOps Engineer",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_314",
+      "name": "Azure AKS DevOps Engineer",
+      "type": "job",
+      "company": "NTT DATA, Inc."
+    },
+    {
+      "id": "job_315",
+      "name": "Azure DevOps Engineer (PaaS)",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_316",
+      "name": "Azure DevOps Engineer",
+      "type": "job",
+      "company": "NTT DATA, Inc."
+    },
+    {
+      "id": "job_317",
+      "name": "AWS Cloud DevOps Engineer, Need Java or Python - Work From Home",
+      "type": "job",
+      "company": "Ginas Tech Jobs"
+    },
+    {
+      "id": "job_318",
+      "name": "Azure DevOps Engineer",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_319",
+      "name": "Sr. Azure Cloud Engineer (Infrastructure)",
+      "type": "job",
+      "company": "Mphasis"
+    },
+    {
+      "id": "job_320",
+      "name": "Lead Cloud DevOps Engineer",
+      "type": "job",
+      "company": "EPAM Systems, Inc."
+    },
+    {
+      "id": "job_321",
+      "name": "Senior Data Scientist",
+      "type": "job",
+      "company": "NexMeet"
+    },
+    {
+      "id": "job_322",
+      "name": "Senior Machine Learning Scientist",
+      "type": "job",
+      "company": "ASUS"
+    },
+    {
+      "id": "job_323",
+      "name": "Senior Machine Learning Scientist",
+      "type": "job",
+      "company": "Novateur Research Solutions"
+    },
+    {
+      "id": "job_324",
+      "name": "Founding Machine Learning Engineer (LLM)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_325",
+      "name": "Sr. Machine Learning Engineer (Agentic AI)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_326",
+      "name": "Founding Machine Learning Engineer (LLM + eCommerce)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_327",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Motion Recruitment"
+    },
+    {
+      "id": "job_328",
+      "name": "Founding Machine Learning Engineer - Hypergrowth Voice AI Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_329",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Rise Technical"
+    },
+    {
+      "id": "job_330",
+      "name": "Senior Machine Learning Scientist",
+      "type": "job",
+      "company": "Strativ Group"
+    },
+    {
+      "id": "job_331",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Mackinnon Bruce International"
+    },
+    {
+      "id": "job_332",
+      "name": "Founding Machine Learning Engineer",
+      "type": "job",
+      "company": "applied 37"
+    },
+    {
+      "id": "job_333",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Opus Recruitment Solutions"
+    },
+    {
+      "id": "job_334",
+      "name": "Senior AI Scientist",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_335",
+      "name": "Staff Machine Learning Engineer (Knowledge Graph)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_336",
+      "name": "Machine Learning Engineer - Trading Team",
+      "type": "job",
+      "company": "Selby Jennings"
+    },
+    {
+      "id": "job_337",
+      "name": "Solutions Engineer",
+      "type": "job",
+      "company": "Velocity Tech"
+    },
+    {
+      "id": "job_338",
+      "name": "ML Accelerator Compiler Developer",
+      "type": "job",
+      "company": "Black Sesame Technologies Inc"
+    },
+    {
+      "id": "job_339",
+      "name": "Sr. Machine Learning Engineer (Agentic AI for Healthcare)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_340",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Persistent Systems"
+    },
+    {
+      "id": "job_341",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "FORDER I.T."
+    },
+    {
+      "id": "job_342",
+      "name": "Chemistry Machine Learning Engineer",
+      "type": "job",
+      "company": "Barrington James"
+    },
+    {
+      "id": "job_343",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Acceler8 Talent"
+    },
+    {
+      "id": "job_344",
+      "name": "Sr. Machine Learning Engineer (GenAI)",
+      "type": "job",
+      "company": "Greylock"
+    },
+    {
+      "id": "job_345",
+      "name": "Senior Machine Learning Engineer",
+      "type": "job",
+      "company": "DeepRec.ai"
+    },
+    {
+      "id": "job_346",
+      "name": "Founding Machine Learning Engineer - Hypergrowth Voice AI Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_347",
+      "name": "Senior Machine Learning Engineer",
+      "type": "job",
+      "company": "GlobalLogic"
+    },
+    {
+      "id": "job_348",
+      "name": "Machine Learning Engineer III",
+      "type": "job",
+      "company": "Walmart Global Tech"
+    },
+    {
+      "id": "job_349",
+      "name": "Founding Machine Learning Engineer",
+      "type": "job",
+      "company": "BackOps AI"
+    },
+    {
+      "id": "job_350",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_351",
+      "name": "Machine Learning Scientist",
+      "type": "job",
+      "company": "BrainChip"
+    },
+    {
+      "id": "job_352",
+      "name": "Machine Learning Engineer Mid",
+      "type": "job",
+      "company": "Pyramid Consulting, Inc"
+    },
+    {
+      "id": "job_353",
+      "name": "Machine Learning Engineer.",
+      "type": "job",
+      "company": "Pyramid Consulting, Inc"
+    },
+    {
+      "id": "job_354",
+      "name": "Senior Machine Learning Engineer",
+      "type": "job",
+      "company": "Acceler8 Talent"
+    },
+    {
+      "id": "job_355",
+      "name": "Senior Machine Learning Engineer",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_356",
+      "name": "AI Engineering Manager, Enterprise AI",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_357",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "North.Cloud"
+    },
+    {
+      "id": "job_358",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Acceler8 Talent"
+    },
+    {
+      "id": "job_359",
+      "name": "Machine Learning Engineer, Security Solutions",
+      "type": "job",
+      "company": "Executive Alliance"
+    },
+    {
+      "id": "job_360",
+      "name": "Machine Learning Engineer - Imaging and Omics",
+      "type": "job",
+      "company": "Astrix"
+    },
+    {
+      "id": "job_361",
+      "name": "Machine Learning Engineer",
+      "type": "job",
+      "company": "Brooksource"
+    },
+    {
+      "id": "job_362",
+      "name": "Staff Machine Learning Engineer",
+      "type": "job",
+      "company": "Harnham"
+    },
+    {
+      "id": "job_363",
+      "name": "AI Engineer",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "job_364",
+      "name": "Full Stack Engineer opening - Computer Vision Startup",
+      "type": "job",
+      "company": "Skyrocket Ventures"
+    },
+    {
+      "id": "job_365",
+      "name": "AI Senior Scientist - Drug Discovery",
+      "type": "job",
+      "company": "Discover International"
+    },
+    {
+      "id": "job_366",
+      "name": "Principal Staff Software Engineer, AI Training Platform",
+      "type": "job",
+      "company": "LinkedIn"
+    },
+    {
+      "id": "entity_embedded_software",
+      "name": "Embedded Software",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_quantum",
+      "name": "quantum",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_ts/sci",
+      "name": "TS/SCI",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_reston",
+      "name": "Reston",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_remote",
+      "name": "REMOTE",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_yale",
+      "name": "Yale",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_brazil",
+      "name": "Brazil",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_react",
+      "name": "React",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_pawtucket",
+      "name": "Pawtucket",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_a_software_engineers",
+      "name": "a Software Engineers",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_genai",
+      "name": "GenAI",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_walmart_global_tech",
+      "name": "Walmart Global Tech",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_the_leysin_american_school_(las",
+      "name": "the Leysin American School (LAS",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_las",
+      "name": "LAS",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_the_united_states",
+      "name": "the United States",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_ux",
+      "name": "UX",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_azure",
+      "name": "Azure",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_los_angeles",
+      "name": "Los Angeles",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_us",
+      "name": "US",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_frontend_-_bff",
+      "name": "Frontend - BFF",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_redwood_city",
+      "name": "Redwood City",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_raleigh",
+      "name": "Raleigh",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_data_engineering",
+      "name": "Data Engineering",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_data_engineering_experience\n&",
+      "name": "Data Engineering Experience\n&",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_mountain_view",
+      "name": "Mountain View",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_lifescale_analytics",
+      "name": "Lifescale Analytics",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_tallahassee",
+      "name": "Tallahassee",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_springfield",
+      "name": "Springfield",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_neuch\u00e2tel",
+      "name": "Neuch\u00e2tel",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_provo",
+      "name": "Provo",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_elite_hedge_fund",
+      "name": "Elite Hedge Fund",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_tulsa",
+      "name": "Tulsa",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_c#\n_role",
+      "name": "C#\n Role",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_c#",
+      "name": "C#",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_meta",
+      "name": "Meta",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_miami",
+      "name": "MIAMI",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_dana",
+      "name": "DANA",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_w-2",
+      "name": "W-2",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_aws",
+      "name": "AWS",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_powershell",
+      "name": "PowerShell",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_devops_engineer",
+      "name": "DevOps Engineer",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_cloud_systems_engineers",
+      "name": "Cloud Systems Engineers",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_sci...&nbsp",
+      "name": "SCI...&nbsp",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_fairfax",
+      "name": "Fairfax",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_palo_alto",
+      "name": "Palo Alto",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_aws\n&nbsp;",
+      "name": "AWS\n&nbsp;",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_devops",
+      "name": "DevOps",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_arlington_va",
+      "name": "Arlington VA",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_malvern",
+      "name": "Malvern",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_software/devops",
+      "name": "Software/DevOps",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_huntington_beach",
+      "name": "Huntington Beach",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_herten",
+      "name": "Herten",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_ai/ml",
+      "name": "AI/ML",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_weather,_climate_and_utility",
+      "name": "Weather, Climate and Utility",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_mexico_city",
+      "name": "Mexico City",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_llm",
+      "name": "LLM",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_sf",
+      "name": "SF",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_healthcare",
+      "name": "Healthcare",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_mle",
+      "name": "MLE",
+      "type": "entity",
+      "entity_type": "WORKS_AT"
+    },
+    {
+      "id": "entity_linkedin",
+      "name": "LinkedIn",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "entity_sunnyvale",
+      "name": "Sunnyvale",
+      "type": "entity",
+      "entity_type": "LOCATED_IN"
+    },
+    {
+      "id": "skill_development",
+      "name": "development",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_code",
+      "name": "code",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_full_stack",
+      "name": "Full Stack",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_ai",
+      "name": "AI",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_llm",
+      "name": "LLM",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_ci/cd",
+      "name": "CI/CD",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_cloud",
+      "name": "Cloud",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_aws",
+      "name": "AWS",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_saas",
+      "name": "SaaS",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "machine learning",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_ml",
+      "name": "ML",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_generative_ai",
+      "name": "Generative AI",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_nlp",
+      "name": "NLP",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_software_engineering",
+      "name": "Software Engineering",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_c#",
+      "name": "C#",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_.net",
+      "name": ".NET",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_javascript",
+      "name": "JavaScript",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_deployment",
+      "name": "Deployment",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_a_deep_understanding",
+      "name": "a deep understanding",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_self-motivated",
+      "name": "self-motivated",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_front-end",
+      "name": "Front-End",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_infrastructure",
+      "name": "infrastructure",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_leadership",
+      "name": "leadership",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_frontend",
+      "name": "Frontend",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_react",
+      "name": "React",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_typescript",
+      "name": "TypeScript",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_backend",
+      "name": "Backend",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_python",
+      "name": "Python",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_collaboration",
+      "name": "collaboration",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_agile",
+      "name": "agile",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_proficient",
+      "name": "proficient",
+      "type": "skill",
+      "category": "LANGUAGE"
+    },
+    {
+      "id": "skill_rust",
+      "name": "Rust",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_php",
+      "name": "PHP",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_deep_learning",
+      "name": "Deep Learning",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_developing",
+      "name": "developing",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_operations",
+      "name": "Operations",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_c++",
+      "name": "C++",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_coding",
+      "name": "Coding",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_swift",
+      "name": "Swift",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_oracle",
+      "name": "Oracle",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_oracle_development",
+      "name": "Oracle Development",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_writing_efficient",
+      "name": "writing efficient",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_java",
+      "name": "Java",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_node.js",
+      "name": "Node.js",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_database",
+      "name": "Database",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_sql_server",
+      "name": "SQL Server",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_building_database",
+      "name": "building database",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_azure",
+      "name": "Azure",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_devops",
+      "name": "devops",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_leading_team",
+      "name": "leading team",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_matlab",
+      "name": "MATLAB",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_communication",
+      "name": "communication",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_presentation",
+      "name": "presentation",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_both_ios",
+      "name": "both iOS",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_this_industry",
+      "name": "this industry",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_html",
+      "name": "HTML",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_css",
+      "name": "CSS",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_code_repository",
+      "name": "code repository",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_express",
+      "name": "Express",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_both_front",
+      "name": "both front",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_embedded_systems",
+      "name": "Embedded systems",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_architecture",
+      "name": "architecture",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_microservices",
+      "name": "microservices",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_analytics",
+      "name": "analytics",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_embedded_software",
+      "name": "embedded software",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_c_#",
+      "name": "C #",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_angular",
+      "name": "Angular",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_data_science",
+      "name": "Data Science",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_big_data",
+      "name": "big data",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_dl",
+      "name": "DL",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_data_analysis",
+      "name": "data analysis",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_data_pipeline",
+      "name": "data pipeline",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_creativity",
+      "name": "creativity",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_marketing",
+      "name": "Marketing",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_llm_applications_\r\n\r\n_candidate",
+      "name": "LLM applications \r\n\r\n Candidate",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_web_application",
+      "name": "web application",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_ec2",
+      "name": "EC2",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_s3",
+      "name": "S3",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_lambda",
+      "name": "Lambda",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_spring",
+      "name": "Spring",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_back-end",
+      "name": "back-end",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_go",
+      "name": "Go",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_graphql",
+      "name": "GraphQL",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_computer_vision",
+      "name": "Computer Vision",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_past_project",
+      "name": "past project",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_laravel",
+      "name": "Laravel",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_mysql",
+      "name": "MySQL",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_various_tools",
+      "name": "various tools",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_managing_it_operations",
+      "name": "managing IT operations",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_all_areas_of_administration",
+      "name": "all areas of administration",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_load_balancer",
+      "name": "load balancer",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_orchestration",
+      "name": "orchestration",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_redis",
+      "name": "Redis",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_high_availability",
+      "name": "high availability",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_powershell",
+      "name": "PowerShell",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_jenkins",
+      "name": "Jenkins",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_cassandra",
+      "name": "Cassandra",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_kubernetes",
+      "name": "Kubernetes",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_ghes_administration",
+      "name": "GHES administration",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_project_management",
+      "name": "project management",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_gcp",
+      "name": "GCP",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_bringing_on_various_new_systems",
+      "name": "bringing on various new systems",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_detail-oriented",
+      "name": "detail-oriented",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_web_services",
+      "name": "Web Services",
+      "type": "skill",
+      "category": "WEB_TECH"
+    },
+    {
+      "id": "skill_security_architecture_fundamentals",
+      "name": "Security Architecture fundamentals",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_platform_engineering",
+      "name": "platform engineering",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_problem_solving",
+      "name": "problem solving",
+      "type": "skill",
+      "category": "SOFT_SKILLS"
+    },
+    {
+      "id": "skill_designing",
+      "name": "designing",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_validating_customer_use_cases",
+      "name": "validating customer use cases",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_rds",
+      "name": "RDS",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_snowflake",
+      "name": "Snowflake",
+      "type": "skill",
+      "category": "DATABASE"
+    },
+    {
+      "id": "skill_hadoop",
+      "name": "Hadoop",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_data_modeling",
+      "name": "data modeling",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_paas",
+      "name": "PaaS",
+      "type": "skill",
+      "category": "CLOUD"
+    },
+    {
+      "id": "skill_azure_devops",
+      "name": "Azure DevOps",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_fine-tuning",
+      "name": "fine-tuning",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_data_mining",
+      "name": "data mining",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_prompt_engineering",
+      "name": "prompt engineering",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_tensorflow",
+      "name": "TensorFlow",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_optimizing",
+      "name": "optimizing",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_transformers",
+      "name": "transformers",
+      "type": "skill",
+      "category": "AI_LLM"
+    },
+    {
+      "id": "skill_natural_language_processing",
+      "name": "natural language processing",
+      "type": "skill",
+      "category": "DATA_SCIENCE"
+    },
+    {
+      "id": "skill_1+_years_of_hands",
+      "name": "1+ years of hands",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    },
+    {
+      "id": "skill_designing_state-space_models",
+      "name": "designing state-space models",
+      "type": "skill",
+      "category": "PROGRAMMING"
+    }
+  ],
+  "links": [
+    {
+      "source": "job_4",
+      "target": "entity_embedded_software",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_5",
+      "target": "entity_quantum",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_10",
+      "target": "entity_ts/sci",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_10",
+      "target": "entity_reston",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_17",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_18",
+      "target": "entity_yale",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_18",
+      "target": "entity_yale",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_18",
+      "target": "entity_brazil",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_32",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_36",
+      "target": "entity_react",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_38",
+      "target": "entity_pawtucket",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_38",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_40",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_42",
+      "target": "entity_a_software_engineers",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_42",
+      "target": "entity_genai",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_44",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_44",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_53",
+      "target": "entity_walmart_global_tech",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_57",
+      "target": "entity_the_leysin_american_school_(las",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_57",
+      "target": "entity_las",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_58",
+      "target": "entity_the_united_states",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_58",
+      "target": "entity_the_united_states",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_63",
+      "target": "entity_the_united_states",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_63",
+      "target": "entity_the_united_states",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_65",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_68",
+      "target": "entity_ux",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_75",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_76",
+      "target": "entity_azure",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_83",
+      "target": "entity_los_angeles",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_93",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_98",
+      "target": "entity_us",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_100",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_103",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_103",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_108",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_109",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_110",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_114",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_116",
+      "target": "entity_frontend_-_bff",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_116",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_119",
+      "target": "entity_redwood_city",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_122",
+      "target": "entity_raleigh",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_124",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_125",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_126",
+      "target": "entity_data_engineering",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_126",
+      "target": "entity_data_engineering_experience\n&",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_126",
+      "target": "entity_data_engineering",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_127",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_135",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_143",
+      "target": "entity_mountain_view",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_147",
+      "target": "entity_lifescale_analytics",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_147",
+      "target": "entity_tallahassee",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_150",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_155",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_156",
+      "target": "entity_springfield",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_157",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_157",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_159",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_161",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_162",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_162",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_164",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_164",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_164",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_165",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_165",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_166",
+      "target": "entity_neuch\u00e2tel",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_174",
+      "target": "entity_provo",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_175",
+      "target": "entity_elite_hedge_fund",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_175",
+      "target": "entity_elite_hedge_fund",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_184",
+      "target": "entity_tulsa",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_189",
+      "target": "entity_c#\n_role",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_189",
+      "target": "entity_c#",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_193",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_196",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_198",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_201",
+      "target": "entity_meta",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_201",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_207",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_210",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_213",
+      "target": "entity_miami",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_214",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_216",
+      "target": "entity_react",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_220",
+      "target": "entity_dana",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_226",
+      "target": "entity_w-2",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_230",
+      "target": "entity_aws",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_233",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_234",
+      "target": "entity_powershell",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_238",
+      "target": "entity_devops_engineer",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_252",
+      "target": "entity_cloud_systems_engineers",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_252",
+      "target": "entity_sci...&nbsp",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_252",
+      "target": "entity_fairfax",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_254",
+      "target": "entity_palo_alto",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_264",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_265",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_268",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_268",
+      "target": "entity_raleigh",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_271",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_273",
+      "target": "entity_aws\n&nbsp;",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_274",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_274",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_277",
+      "target": "entity_devops",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_278",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_278",
+      "target": "entity_arlington_va",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_281",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_284",
+      "target": "entity_cloud_systems_engineers",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_284",
+      "target": "entity_fairfax",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_285",
+      "target": "entity_malvern",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_290",
+      "target": "entity_software/devops",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_295",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_298",
+      "target": "entity_huntington_beach",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_300",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_303",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_306",
+      "target": "entity_herten",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_308",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_308",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_309",
+      "target": "entity_ai/ml",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_311",
+      "target": "entity_weather,_climate_and_utility",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_312",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_316",
+      "target": "entity_mexico_city",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_317",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_317",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_318",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_319",
+      "target": "entity_azure",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_321",
+      "target": "entity_redwood_city",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_324",
+      "target": "entity_llm",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_329",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_330",
+      "target": "entity_sf",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_339",
+      "target": "entity_healthcare",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_339",
+      "target": "entity_healthcare",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_339",
+      "target": "entity_llm",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_343",
+      "target": "entity_mle",
+      "type": "WORKS_AT"
+    },
+    {
+      "source": "job_349",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_349",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_350",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_354",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_355",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_356",
+      "target": "entity_linkedin",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_362",
+      "target": "entity_remote",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_363",
+      "target": "entity_sunnyvale",
+      "type": "LOCATED_IN"
+    },
+    {
+      "source": "job_1",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_5",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_6",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_7",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_7",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_7",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_7",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_9",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_11",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_11",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_12",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_13",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_13",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_13",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_13",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_13",
+      "target": "skill_saas",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_14",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_14",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_16",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_18",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_19",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_19",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_20",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_20",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_21",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_21",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_22",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_22",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_22",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_22",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_22",
+      "target": "skill_nlp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_23",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_24",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_24",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_25",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_25",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_25",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_25",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_25",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_25",
+      "target": "skill_javascript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_26",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_26",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_27",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_27",
+      "target": "skill_a_deep_understanding",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_28",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_28",
+      "target": "skill_self-motivated",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_29",
+      "target": "skill_front-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_30",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_30",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_32",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_32",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_33",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_33",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_33",
+      "target": "skill_leadership",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_34",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_34",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_35",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_36",
+      "target": "skill_frontend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_36",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_36",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_36",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_36",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_37",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_39",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_41",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_41",
+      "target": "skill_collaboration",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_42",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_42",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_44",
+      "target": "skill_agile",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_45",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_45",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_45",
+      "target": "skill_proficient",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_46",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_46",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_47",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_48",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_49",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_49",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_49",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_49",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_51",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_53",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_54",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_54",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_54",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_54",
+      "target": "skill_rust",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_54",
+      "target": "skill_php",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_55",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_55",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_55",
+      "target": "skill_deep_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_55",
+      "target": "skill_developing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_56",
+      "target": "skill_operations",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_57",
+      "target": "skill_leadership",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_64",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_64",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_64",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_64",
+      "target": "skill_coding",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_65",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_65",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_65",
+      "target": "skill_programming",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_66",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_66",
+      "target": "skill_swift",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_67",
+      "target": "skill_leadership",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_67",
+      "target": "skill_front-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_68",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_68",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_69",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_69",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_69",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_69",
+      "target": "skill_oracle_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_69",
+      "target": "skill_writing_efficient",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_70",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_70",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_node.js",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_71",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_72",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_73",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_73",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_74",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_74",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_74",
+      "target": "skill_database",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_74",
+      "target": "skill_sql_server",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_74",
+      "target": "skill_building_database",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_76",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_76",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_76",
+      "target": "skill_proficient",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_76",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_76",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_76",
+      "target": "skill_leading_team",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_77",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_77",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_77",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_81",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_81",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_82",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_82",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_82",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_84",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_84",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_84",
+      "target": "skill_matlab",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_84",
+      "target": "skill_communication",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_84",
+      "target": "skill_presentation",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_86",
+      "target": "skill_both_ios",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_87",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_88",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_88",
+      "target": "skill_this_industry",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_89",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_89",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_89",
+      "target": "skill_html",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_89",
+      "target": "skill_css",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_89",
+      "target": "skill_javascript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_89",
+      "target": "skill_code_repository",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_90",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_90",
+      "target": "skill_leadership",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_90",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_90",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_90",
+      "target": "skill_express",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_90",
+      "target": "skill_both_front",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_93",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_93",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_93",
+      "target": "skill_programming",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_95",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_95",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_95",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_96",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_96",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_97",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_97",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_97",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_97",
+      "target": "skill_embedded_systems",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_97",
+      "target": "skill_architecture",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_98",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_99",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_99",
+      "target": "skill_c++",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_99",
+      "target": "skill_matlab",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_100",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_101",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_102",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_103",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_103",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_104",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_104",
+      "target": "skill_oracle",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_node.js",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_microservices",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_frontend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_105",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_107",
+      "target": "skill_embedded_software",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_108",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_108",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_108",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_109",
+      "target": "skill_c_#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_109",
+      "target": "skill_angular",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_111",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_111",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_111",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_112",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_113",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_113",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_114",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_114",
+      "target": "skill_angular",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_116",
+      "target": "skill_frontend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_118",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_119",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_119",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_119",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_119",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_119",
+      "target": "skill_artificial_intelligence",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_120",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_121",
+      "target": "skill_big_data",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_122",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_122",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_123",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_125",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_127",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_128",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_128",
+      "target": "skill_dl",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_129",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_130",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_130",
+      "target": "skill_data_analysis",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_131",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_131",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_132",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_133",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_133",
+      "target": "skill_data_pipeline",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_136",
+      "target": "skill_communication",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_137",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_137",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_139",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_143",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_143",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_147",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_148",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_150",
+      "target": "skill_leadership",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_151",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_151",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_152",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_153",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_154",
+      "target": "skill_creativity",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_154",
+      "target": "skill_marketing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_155",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_155",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_157",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_159",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_159",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_160",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_160",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_161",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_161",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_166",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_168",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_168",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_node.js",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_169",
+      "target": "skill_llm_applications_\r\n\r\n_candidate",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_170",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_170",
+      "target": "skill_saas",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_171",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_171",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_171",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_171",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_171",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_171",
+      "target": "skill_frontend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_172",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_173",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_174",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_175",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_175",
+      "target": "skill_web_application",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_176",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_176",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_angular",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_ec2",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_s3",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_177",
+      "target": "skill_lambda",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_178",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_178",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_178",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_179",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_179",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_180",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_181",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_181",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_181",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_182",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_182",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_frontend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_angular",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_183",
+      "target": "skill_spring",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_184",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_184",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_184",
+      "target": "skill_back-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_185",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_185",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_185",
+      "target": "skill_front-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_186",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_186",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_187",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_187",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_188",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_sql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_.net",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_angular",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_189",
+      "target": "skill_both_ios",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_190",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_190",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_190",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_191",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_191",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_192",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_192",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_192",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_192",
+      "target": "skill_agile",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_192",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_192",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_193",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_193",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_194",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_194",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_194",
+      "target": "skill_coding",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_195",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_195",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_195",
+      "target": "skill_front-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_195",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_195",
+      "target": "skill_back-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_195",
+      "target": "skill_go",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_196",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_196",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_197",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_197",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_197",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_198",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_199",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_199",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_199",
+      "target": "skill_front-end",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_200",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_200",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_200",
+      "target": "skill_c#",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_200",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_201",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_201",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_201",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_201",
+      "target": "skill_graphql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_202",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_202",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_203",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_203",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_203",
+      "target": "skill_computer_vision",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_203",
+      "target": "skill_deep_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_205",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_205",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_206",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_206",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_207",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_207",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_208",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_208",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_208",
+      "target": "skill_go",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_209",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_210",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_210",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_211",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_211",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_212",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_212",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_213",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_213",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_213",
+      "target": "skill_past_project",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_214",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_215",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_215",
+      "target": "skill_analytics",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_216",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_216",
+      "target": "skill_react",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_216",
+      "target": "skill_php",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_216",
+      "target": "skill_typescript",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_216",
+      "target": "skill_laravel",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_217",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_217",
+      "target": "skill_php",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_217",
+      "target": "skill_mysql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_218",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_219",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_220",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_220",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_220",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_220",
+      "target": "skill_frontend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_221",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_222",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_223",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_223",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_223",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_224",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_224",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_225",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_225",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_225",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_226",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_227",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_227",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_228",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_228",
+      "target": "skill_agile",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_228",
+      "target": "skill_various_tools",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_229",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_229",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_229",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_229",
+      "target": "skill_managing_it_operations",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_230",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_230",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_231",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_232",
+      "target": "skill_leadership",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_232",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_232",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_232",
+      "target": "skill_all_areas_of_administration",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_s3",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_mysql",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_load_balancer",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_orchestration",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_233",
+      "target": "skill_redis",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_234",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_234",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_234",
+      "target": "skill_high_availability",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_234",
+      "target": "skill_powershell",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_235",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_235",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_235",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_235",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_236",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_236",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_237",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_237",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_238",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_238",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_238",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_239",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_239",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_239",
+      "target": "skill_jenkins",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_239",
+      "target": "skill_cassandra",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_240",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_240",
+      "target": "skill_kubernetes",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_240",
+      "target": "skill_ghes_administration",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_241",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_241",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_242",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_242",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_242",
+      "target": "skill_project_management",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_243",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_243",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_244",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_244",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_245",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_246",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_246",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_246",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_246",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_247",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_247",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_248",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_249",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_249",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_249",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_249",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_250",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_250",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_250",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_251",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_251",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_251",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_251",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_251",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_251",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_252",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_252",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_253",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_254",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_254",
+      "target": "skill_gcp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_255",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_255",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_255",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_255",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_255",
+      "target": "skill_bringing_on_various_new_systems",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_256",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_256",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_256",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_256",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_257",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_257",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_257",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_258",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_258",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_258",
+      "target": "skill_detail-oriented",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_259",
+      "target": "skill_ci/cd",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_259",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_259",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_259",
+      "target": "skill_jenkins",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_259",
+      "target": "skill_kubernetes",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_260",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_260",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_260",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_261",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_261",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_261",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_262",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_262",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_262",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_262",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_263",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_263",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_263",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_263",
+      "target": "skill_web_services",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_263",
+      "target": "skill_security_architecture_fundamentals",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_264",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_264",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_264",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_265",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_265",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_266",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_266",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_266",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_266",
+      "target": "skill_platform_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_267",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_267",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_267",
+      "target": "skill_problem_solving",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_268",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_269",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_269",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_269",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_269",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_269",
+      "target": "skill_designing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_270",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_270",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_270",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_270",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_270",
+      "target": "skill_designing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_271",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_272",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_272",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_272",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_273",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_273",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_273",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_273",
+      "target": "skill_problem_solving",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_274",
+      "target": "skill_code",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_274",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_274",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_274",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_275",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_275",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_275",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_276",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_276",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_277",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_277",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_278",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_279",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_279",
+      "target": "skill_validating_customer_use_cases",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_280",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_280",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_280",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_281",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_281",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_281",
+      "target": "skill_communication",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_282",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_282",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_282",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_283",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_283",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_284",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_285",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_285",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_286",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_286",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_287",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_287",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_287",
+      "target": "skill_kubernetes",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_288",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_288",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_288",
+      "target": "skill_gcp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_289",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_290",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_290",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_291",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_291",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_291",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_291",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_291",
+      "target": "skill_go",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_291",
+      "target": "skill_programming",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_292",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_292",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_292",
+      "target": "skill_ec2",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_292",
+      "target": "skill_s3",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_292",
+      "target": "skill_rds",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_293",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_293",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_294",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_294",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_294",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_295",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_295",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_296",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_296",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_296",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_296",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_297",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_297",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_297",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_298",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_298",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_gcp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_snowflake",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_hadoop",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_299",
+      "target": "skill_data_modeling",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_300",
+      "target": "skill_saas",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_301",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_302",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_302",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_302",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_303",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_303",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_304",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_304",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_304",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_304",
+      "target": "skill_big_data",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_305",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_305",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_305",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_306",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_306",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_307",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_307",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_307",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_307",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_308",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_309",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_309",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_309",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_309",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_309",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_310",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_310",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_310",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_311",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_311",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_312",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_312",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_312",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_312",
+      "target": "skill_gcp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_313",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_313",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_314",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_314",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_314",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_314",
+      "target": "skill_kubernetes",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_315",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_315",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_315",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_315",
+      "target": "skill_paas",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_316",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_316",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_317",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_317",
+      "target": "skill_aws",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_317",
+      "target": "skill_python",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_317",
+      "target": "skill_java",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_317",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_318",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_318",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_318",
+      "target": "skill_azure_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_319",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_319",
+      "target": "skill_azure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_319",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_320",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_320",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_320",
+      "target": "skill_agile",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_321",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_321",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_321",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_321",
+      "target": "skill_artificial_intelligence",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_322",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_322",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_322",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_322",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_322",
+      "target": "skill_fine-tuning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_323",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_323",
+      "target": "skill_data_mining",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_324",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_324",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_324",
+      "target": "skill_nlp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_324",
+      "target": "skill_prompt_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_325",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_325",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_325",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_325",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_325",
+      "target": "skill_deep_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_326",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_326",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_326",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_327",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_327",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_327",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_327",
+      "target": "skill_tensorflow",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_327",
+      "target": "skill_optimizing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_328",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_328",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_329",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_329",
+      "target": "skill_transformers",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_330",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_330",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_330",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_331",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_332",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_332",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_332",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_332",
+      "target": "skill_devops",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_333",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_333",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_333",
+      "target": "skill_gcp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_334",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_334",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_334",
+      "target": "skill_transformers",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_335",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_335",
+      "target": "skill_nlp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_336",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_336",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_337",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_337",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_337",
+      "target": "skill_nlp",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_337",
+      "target": "skill_deployment",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_337",
+      "target": "skill_natural_language_processing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_338",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_338",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_339",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_339",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_339",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_340",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_341",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_341",
+      "target": "skill_software_engineering",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_342",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_342",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_342",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_343",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_343",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_344",
+      "target": "skill_llm",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_344",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_344",
+      "target": "skill_1+_years_of_hands",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_345",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_346",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_346",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_347",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_347",
+      "target": "skill_communication",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_348",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_349",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_350",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_350",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_351",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_351",
+      "target": "skill_designing_state-space_models",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_352",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_353",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_354",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_354",
+      "target": "skill_data_science",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_355",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_356",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_356",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_357",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_357",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_357",
+      "target": "skill_cloud",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_358",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_359",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_359",
+      "target": "skill_designing",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_360",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_360",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_361",
+      "target": "skill_development",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_361",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_361",
+      "target": "skill_ml",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_361",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_361",
+      "target": "skill_generative_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_362",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_362",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_363",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_363",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_364",
+      "target": "skill_full_stack",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_364",
+      "target": "skill_backend",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_364",
+      "target": "skill_computer_vision",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_365",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_365",
+      "target": "skill_machine_learning",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_365",
+      "target": "skill_artificial_intelligence",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_366",
+      "target": "skill_ai",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "job_366",
+      "target": "skill_infrastructure",
+      "type": "HAS_SKILL"
+    }
+  ]
+}
