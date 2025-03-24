@@ -20,6 +20,8 @@ ENV/
 
 # Environment variables
 .env
+.env.example
+
 
 # IDE settings
 .vscode/
